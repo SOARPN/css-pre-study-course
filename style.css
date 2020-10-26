@@ -39,8 +39,8 @@
     text-align: center;
     background-color: #fffff2;
 }
-#f-f {
-    display: flex;
-    justify-content: center;
+.f-f {
+    flex-flow: row wrap; 
+    float: center;
     align-items: center;
 }
